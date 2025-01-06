@@ -25,5 +25,5 @@ Feel free to explore my repositories and reach out for collaboration! 😊
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [Shiny Dashboard](https://github.com/salimamk/Data_Visualization) | An interactive data visualization dashboard | R, Shiny |
-| [Machine Learning](https://github.com/salimamk/Machine_Learning) | Predictive models using Random Forest and boosting | R, Python |
+| [Machine Learning](https://github.com/salimamk/Machine_Learning) | Predictive models using Random Forest and boosting | R |
 
