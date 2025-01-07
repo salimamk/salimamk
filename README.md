@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-I’m a passionate data enthusiast with a Master’s in Medical Statistics. Here's a quick look at what I do:
+I’m a passionate data analyst with a Master’s in Medical Statistics. Here's a quick look at what I do:
 
 - 🎓 **Background**: Proficient in **R** for data analysis, visualization, and machine learning.
 - 📚 **Currently Learning**: Exploring **Python**, **Tableau**, and **SQL**.
