@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋
 
 I’m a passionate data analyst with a Master’s in Medical Statistics. Here's a quick look at what I do:
 
@@ -12,8 +12,6 @@ Feel free to explore my repositories and reach out for collaboration! 😊
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salimamk&show_icons=true&theme=light)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salimamk&layout=compact&theme=light)
 
